@@ -24,7 +24,7 @@ import requests
 
 # ---------------------------------------------------------------- settings
 
-USER_AGENT = "Karim - UW student project - kseniia@uw.edu"   
+USER_AGENT = "Kseniia - UW student project - kseniia@uw.edu"   
 
 CIKS = {
     "DAL":  "0000027904",
